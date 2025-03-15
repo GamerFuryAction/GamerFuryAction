@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on developing a website for a small buissnes
+- 🌱 I’m currently learning C++
+- 👯 I’m looking to collaborate with people that are funn and likes to do diferents things
+- 💬 Ask me about C++, I can help!
+- 📫 How to reach me: with my discord username "gamerfuryaction"
+- ⚡ Fun fact: I like playing videogames and I made some games
