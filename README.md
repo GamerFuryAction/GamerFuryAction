@@ -9,10 +9,10 @@ I'm a 15-year-old developer and gamer who loves building "cool stuff." I'm drive
 ## 🛠️ What I'm Building With
 * C++
 * C# in Unity
-* Linux Distros
+* Cyber Security terms
 
 ## 🚀 Let's Collaborate!
-I’m looking to connect with other teen developers (around 15) to work on:
+I’m looking to connect with other teen developers (around 16-17) to work on:
 * Open-source gaming tools 🎮
 * Robotics or AI projects 🤖
 * Anything "cool" that solves a problem!
@@ -23,7 +23,7 @@ I’m looking to connect with other teen developers (around 15) to work on:
 * Competitions: Tips for international robotics finals.
 
 ## 📈 My Activity
-I am curently working on Mac-Buntu Gaming
+I am currently learning Cyber Security
 
 ## My Social
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1420798849819349024)
