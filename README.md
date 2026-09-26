@@ -1,5 +1,5 @@
 # Hi there, I'm Ruginosu Matei, but my gaming name is GamerFuryActoin! 🕹️💻
-I'm a 15-year-old developer and gamer who loves building "cool stuff." I'm driven by competition, travel, and the Hack Club maker culture. I’m always looking for other young builders to team up with and ship awesome projects.
+I'm a 16-year-old developer and gamer who loves building "cool stuff." I'm driven by competition, travel, and the Hack Club maker culture. I’m always looking for other young builders to team up with and ship awesome projects.
 
 ## 🌎 Global Experience
 * EnjoyAI 2025 Global Finals (Shanghai): Represented my country in high-level robotics/AI competition and won a medal.
