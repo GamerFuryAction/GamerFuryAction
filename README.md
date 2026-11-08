@@ -25,6 +25,12 @@ I’m looking to connect with other teen developers (around 16-17) to work on:
 ## 📈 My Activity
 I am currently learning Cyber Security
 
+## 🏆 Competitions that I went to:
+* Beijing International Competition
+* EnjoyAI 2025 Global Finals (Shanghai, Wuzhen)
+* EnjoyAI 2026 European Open (Bosnia & Herzegovina, Travnik): 🥈Second Place
+* EnjoyAI 2026 Eurasian Open (Türkiye, Istanbul): 🥇First Place
+
 ## My Social
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1420798849819349024)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/gamerfuryaction)
