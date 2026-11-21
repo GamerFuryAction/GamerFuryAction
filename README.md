@@ -23,7 +23,7 @@ I’m looking to connect with other teen developers (around 16-17) to work on:
 * Competitions: Tips for international robotics finals.
 
 ## 📈 My Activity
-I am currently learning Cyber Security
+I am currently learning Cyber Security and working on the project "Programing Language Battle Arena"
 
 ## 🏆 Competitions that I went to:
 * Beijing International Competition
